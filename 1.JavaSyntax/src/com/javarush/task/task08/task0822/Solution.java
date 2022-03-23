@@ -30,8 +30,6 @@ public class Solution {
             list.add(Integer.parseInt(reader.readLine()));
         }
         return list;
-        for (int i = 0; i < 10; i++) {
-            
-        }
+
     }
 }
